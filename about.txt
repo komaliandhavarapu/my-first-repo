@@ -1,0 +1,3 @@
+Name: Andhavarapu Komali
+Course: BSC-C
+I learned about GitHub is it is used to commit the changes by more number of people using colloborations
